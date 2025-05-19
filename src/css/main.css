@@ -1,7 +1,7 @@
-@import './reset.css';
-@import './fonts.css';
-@import './header.css';
-@import './section.css';
+@import 'reset.css';
+@import 'fonts.css';
+@import 'header.css';
+@import 'section.css';
 
 html {
     box-sizing: border-box;
