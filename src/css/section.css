@@ -337,3 +337,13 @@
   }
 
 }
+
+@media (max-width: 430px) {
+  .main__middle {
+    padding-left: 20px;
+  }
+
+  .main__bottom {
+    padding: 40px 20px;
+  }
+}
