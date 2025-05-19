@@ -15,7 +15,7 @@ A responsive front-end layout built with pure **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Preview
 
-![Mobile slider preview](./screenshots/mobile-slider.png)
+(https://v-vytrykush.github.io/Clive-Kristian/)
 
 ## 🧪 Stack
 
